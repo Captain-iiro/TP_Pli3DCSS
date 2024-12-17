@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "compass-mixins": "^0.12.12",
     "vite": "^5.4.10"
   },
   "dependencies": {

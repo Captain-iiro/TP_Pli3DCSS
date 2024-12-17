@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import path from 'path';
 
+
 export default defineConfig({
   resolve: {
     alias: {
@@ -11,7 +12,8 @@ export default defineConfig({
     preprocessorOptions: {
       scss: {
         implementation: 'sass',
-        api: 'modern-compiler'
+        api: 'modern-compiler',
+
       }
     }
   },

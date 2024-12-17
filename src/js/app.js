@@ -1,6 +1,6 @@
-import { initNavbar } from './components/navbar.js';
-
+import { section } from './components/section.js';
 
 export function initApp() {
-  initNavbar();
+  const app = document.querySelector('#app');
+  app.appendChild(section());
 }
