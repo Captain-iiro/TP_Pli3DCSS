@@ -11,15 +11,6 @@ The "CSS Tutorial: 3D Fold Effect in CSS3" video explains how to create a simple
 ## Local Video Demonstration
 
 Here is a short local video showing the 3D fold effect in action.
-<video width="320" height="240" controls>
-  <source src="test1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="320" height="240" controls>
-  <source src="test1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
